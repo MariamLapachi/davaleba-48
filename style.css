@@ -1,0 +1,25 @@
+#first {
+    width: 300px;
+    height: 400px;
+    background-color: #2F8141;
+    border: 1px solid #2F8141;
+}
+
+#second {
+    width: 571px;
+    height: 140px;
+    background-color: #13513b;
+    border: 1px solid #13513b;
+}
+#third {
+    width: 300px;
+    height: 400px;
+    background-color: #E624BB;
+    border: 1px solid #E624BB;
+}
+#fourth {
+    width: 300px;
+    height: 400px;
+    background-color: #55EF0D;
+    border: 1px solid #55EF0D;
+}
